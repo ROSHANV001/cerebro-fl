@@ -1,0 +1,15 @@
+﻿.venv/
+__pycache__/
+*.pyc
+data/
+frontend_masks/
+outputs/
+temp_api/
+test_A/
+handoff_package/
+handoff_package.zip
+handoff_A/
+handoff_B/
+handoff_C/
+*.pth
+!model_final.pth
